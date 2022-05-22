@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Снимок](https://user-images.githubusercontent.com/22717524/169715103-a52e6ff2-4e25-46d8-92b1-1e822ec3e621.JPG)
 
 <!--
 **temptito/temptito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
